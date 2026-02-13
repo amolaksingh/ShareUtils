@@ -43,6 +43,6 @@ publishing {
     publications.withType<MavenPublication>().configureEach {
         groupId = "com.github.amolaksingh"
         artifactId = "shareutils"
-        version = "1.0.3"
+        version = "1.0.4"
     }
 }
